@@ -1,0 +1,2 @@
+# A-Comparison-of-Ordinal-Logistic-Regression-and-Random-Forest-for-Predicting-Social-Anxiety
+The project aims to determine behavioral, lifestyle, and psychological factors among other that may serve as predictors for mild to severe social anxiety. We then compared an ordinal logistic regression model and random forest model to determine which model worked best. I dedicate this project to my Grade 11 Calculus teacher.
